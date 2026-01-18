@@ -44,7 +44,3 @@ online-retail-cohort-retention/
 │   └── Online_Retail_Cohort_Retention.pbix
 │
 └── README.md
-
-
-
-
