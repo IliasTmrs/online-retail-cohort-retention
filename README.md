@@ -44,6 +44,7 @@ online-retail-cohort-retention/
 │   └── Online_Retail_Cohort_Retention.pbix
 │
 └── README.md
+```
 
 ## Analysis Workflow
 
@@ -105,3 +106,4 @@ These visuals allow easy exploration of customer retention patterns across cohor
 
 ## Notes
 The SQLite database (`retail.db`) is generated locally and is not included in the repository due to its size.
+
