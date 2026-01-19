@@ -46,6 +46,8 @@ online-retail-cohort-retention/
 └── README.md
 ```
 
+---
+
 ## Analysis Workflow
 
 ### 1. Data Cleaning
@@ -106,4 +108,5 @@ These visuals allow easy exploration of customer retention patterns across cohor
 
 ## Notes
 The SQLite database (`retail.db`) is generated locally and is not included in the repository due to its size.
+
 
